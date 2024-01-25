@@ -58,4 +58,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
-- Special thanks to the teaching instructor for their invaluable guidance, support, and [specific contribution] throughout the development of this project. Their expertise and insights have been instrumental in shaping the success of Code Quiz Pro.
+- Special thanks to the teaching instructor for their invaluable guidance, support, throughout the development of this project. Their expertise and insights have been instrumental in shaping the success of Code Quiz Pro.
